@@ -9,17 +9,17 @@ This project aims to develop a reliable predictive model to help a Portuguese ba
 
 
 ## Table of Contents
-- [Introduction](introduction)
-- [Tools Used](tools-used)
-- [Data Source](data-source)
-- [Data Description](data-description)
-- [Data Cleaning & Preparation](data-cleaning-&-preparation)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Model Building](model-building)
-    - [Logistics Regression Model (LRM)](logistics-regression-model(lrm))
-- [Findings & Results](findings-&-results)
-- [Recommendations](recommendations)
-- [Limitations](limitations)
+- [Introduction](#introduction)
+- [Tools Used](#tools-used)
+- [Data Source](#data-source)
+- [Data Description](#data-description)
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Model Building](#model-building)
+    - [Logistics Regression Model (LRM)](#logistics-regression-model(lrm))
+- [Findings & Results](#findings-&-results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 
 

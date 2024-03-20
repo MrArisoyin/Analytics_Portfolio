@@ -1,0 +1,50 @@
+---
+# An Insight into Netflix's Influence (Jan. 2008 - Jan. 2021)
+---
+
+### Table of Content
+- Project Overview
+- Introduction
+- Data Source
+- Tools Used
+- Exploratory Data Analysis
+- Analysis
+- Findings
+- Recommendations
+
+### Project Overview
+
+### Introduction
+Netflix, Inc., although started in 1997, did not gain so much popularity until a decade later. This data set speaks to how the now popularly used streaming site has evolved over the years, from just a film hosting platform to the most engaged hub for movies and tv shows. 
+
+
+### Task
+
+### Findings
+
+➢ “Film” in this analysis represents a combination of Movies (one-off film productions), and TV 
+Shows (a series of film productions) 
+➢ Movies make up 69% of Netflix’s total film collection, with the remaining 31% being TV shows 
+➢ Choice of Movies/TV Shows added by Netflix to their platform are mostly those recently 
+released (> 2010) 
+➢ 7,788 films have been added to the Netflix platform between 2008 – 2020, 98% of which were 
+added in the last 5yrs of the review period 
+➢ Although the data was not sufficient to determine user engagement with the site and films 
+onboarded, the spike in additions observed in early 2020 could be attributable to the upsurge 
+in user engagements during this period. The 2020 Covid lockdown, as well as the increase in 
+the amount of time spent indoors might have partly contributed to this. 
+➢ About one-third of the films added have come from the United States, with India and the U.K 
+coming in second and third place 
+➢ Even though film feature per cast member stands at an average 1.14, David Attenborough 
+appears to be Netflix’s most sort after Actor, featuring in 18 film productions so far (5 Movies 
+& 13 TV Shows) 
+➢ Of the Top 10 Directors with the most movies directed, only Marcus Raboy was seen to have 
+a mix of Movies & TV Shows in his portfolio 
+➢ Marcus is also one renowned for having a substantial number of film productions under his 
+belt (16), falling short of the chart leader – Raul Campos, Jan Suter – by two films. 
+➢ Two African countries, Egypt (101 Films) and Nigeria (70 films), made it to the top 20 most 
+featured locations 
+➢ Film produced in countries like Nigeria, Brazil, Egypt, etc., did not gain recognition on Netflix 
+until 2015 
+Disclaimer: This report was curated ability testing ONLY and does not constitute a basis for 
+assessing Netflix Inc., in any way, manner or form.

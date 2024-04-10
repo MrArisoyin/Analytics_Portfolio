@@ -5,6 +5,7 @@
 - **Algorithms/Methods**: Logistics Regression, and Random Forest.
 - **Assessment**: Forecasts will be assessed using measures of forecast evaluation such as accuracy, precision, recall, and F1-score.
 - **Tools Used**: Microsoft Excel, R Programming
+- **Summary of Findings** - Netflix surged with film additions, especially post-2010 releases. Notable actors/directors emerged, and global film recognition expanded post-2015.
 - **More here...**
 
 
@@ -14,6 +15,7 @@
 - **Algorithms/Methods**: Logistics Regression, and Random Forest.
 - **Assessment**: Forecasts will be assessed using measures of forecast evaluation such as accuracy, precision, recall, and F1-score.
 - **Tools Used**: Microsoft Excel, R Programming
+- **Summary of Findings** - Netflix surged with film additions, especially post-2010 releases. Notable actors/directors emerged, and global film recognition expanded post-2015.
 - **More here...**
 
 
@@ -23,6 +25,7 @@
 - **Algorithms/Methods**: Logistics Regression, and Random Forest.
 - **Assessment**: Forecasts will be assessed using measures of forecast evaluation such as accuracy, precision, recall, and F1-score.
 - **Tools Used**: Microsoft Excel, R Programming
+- **Summary of Findings** - Netflix surged with film additions, especially post-2010 releases. Notable actors/directors emerged, and global film recognition expanded post-2015.
 - **More here...**
 
 
@@ -41,6 +44,7 @@
 - **Algorithms/Methods**: Logistics Regression, and Random Forest.
 - **Assessment**: Forecasts will be assessed using measures of forecast evaluation such as accuracy, precision, recall, and F1-score.
 - **Tools Used**: Microsoft Excel, R Programming
+- **Summary of Findings** - Netflix surged with film additions, especially post-2010 releases. Notable actors/directors emerged, and global film recognition expanded post-2015.
 - **More here...**
 
 

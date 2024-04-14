@@ -46,9 +46,3 @@
 - **Tools Used**: Microsoft Excel, R Programming
 - **Summary of Findings** - Most respondents were from the United States; computer science was the top major. Average salary was $62,593.09, median $53,000.00, with a standard deviation of $49,024.45. Outliers affected salary averages. Salary weakly correlated with years of coding and job satisfaction. Respondents from larger organizations tended to have slightly higher salaries.
 - **More here...**
-
-
-
-
-
-
